@@ -1,46 +1,33 @@
-h1 {
 
-font-weight:normal;
-font-size:50px;}
 html {
   text-align: center;
   background-color: black
 }
-
-
-
 p {
-  font-family: Helvetica;
-}
-
-
-
+  font-family: Helvetica;}
 #size1 {
   font-size:50px
 }
-
 h4 {
-
   font-size: 21px;
   color: gray;
 }
 .white {
-  color: white
-}
+  color: white}
 .font family {
   font-family: Verdana;
-}
-
 .aquamarine {
   color: Aquamarine;
-}
 #font-size2 {
-  font-sizs: 42px
+  font-size: 42px
 }
 #font-weight1 {
-  font-weight : 300;
+  font-weight: 300;
 
   }
   #fontsize16 {
     font-size: 16px
   }
+.grey {
+  color: grey;
+}
